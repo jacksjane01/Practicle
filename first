@@ -1,0 +1,9 @@
+public class winter
+{
+public static void main string[] args
+{
+
+system.out.printin("This is my first class");
+
+}
+}
